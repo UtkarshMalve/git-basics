@@ -8,5 +8,6 @@ const isAdult = () => {
     console.log('my code')
     console.log('new ')
     console.log("hello world")
+    console.log('hello world')
 
 }
