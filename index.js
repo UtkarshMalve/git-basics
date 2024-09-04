@@ -7,5 +7,6 @@ const isAdult = () => {
     return age = "23"
     console.log('my code')
     console.log('my new code')
+    console.log('my latest code')
 
 }
